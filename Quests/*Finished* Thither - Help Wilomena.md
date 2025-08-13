@@ -1,0 +1,98 @@
+
+- We successfully balloon from [[Hither]].
+- We learn the hag, [[Scabatha Nightshade]] resides at [[Thither - Loom Lurch]].
+- There is a group of "bandits" named the [[Getaway Gang]] who is currently at war with [[Scabatha Nightshade]].
+- This group is led by a kid name [[Wyll of the Faewild]]
+- We come across a cave, [[Thither - Nib's Cave]] where a man, [[Nib]] is weaving gold items.
+	- He gives:
+		- [[Vengar Oathbreaker]] [[Dimensional Shackles]]
+		- [[Derek Zoolander]] [[Gloves of Thievery]]
+		- [[Bjorn "Hags Bane" Bjornsson]] an [[Immovable Rod]]
+		- [[Mac Torag]] [[Winged Boots]]
+		- [[Morgort]] / [[Clapper Claw]] [[Sending Stones]] 
+- He gives us directions to [[Thither - Little Oak]] to find the [[Getaway Gang]].
+	- "North", "Follow east bank of river", then cross and go "west" w/e.
+- On our way we encounter a [[Dryad]] named [[Meadowleaf]] who is angry we are in their forest.
+	- We beat them, and convinced them we are anti-hag, and got 3 [[Magic Seeds]] from them.
+- We came across an owlbear, we since named [[Cupcake]].
+	- Fed it so it follows us.
+- We come across a goblin market selling candy.
+	- Led by a Hobgoblin? Named [[Chucklehead]] who tries to get us an audience with [[Scabatha Nightshade]].
+- We encounter a great oak with small hanging houses.
+	- [[Vengar Oathbreaker]] climbs the tree and tries to open the door to one of the houses.
+	- Gets turned into a sheep, whole party gets polymorphed.
+	- We meet faeries who let us kill 3 [[Redcap]]'s .
+- Reach [[Thither - Little Oak]] where we meet [[Wyll of the Faewild]].
+	- Something is off about [[Wyll of the Faewild]]. 
+	- He describes a plan for us to break kids out of the workshop in [[Thither - Loom Lurch]].
+		- Set up meeting with [[Scabatha Nightshade]], distract guards while they escape.
+	- He mentions that we should go visit the unicorn at [[Thither - Unicorn Lake]]
+- We go to [[Thither - Unicorn Lake]] where he meet [[Lamorna]] , a unicorn.
+	- We learn that [[Derek Zoolander]]'s cloak has the signet of [[Valor's Call]] while his scroll has the signet of the [[Signatories of the Accord]] 
+	- [[Lamorna]]'s mate [[Ilidan]] went with [[Valor's Call]] to fight and end [[Tasha]] but never returned.
+	- We are bushwhacked by a rogue orc named [[Zirack]] 
+	- We is trying to get a [[Unicorn Horn]] for a man named [[Kelek]]
+- We go back to [[Thither - Little Oak]], detect magic and find a magic can of oil named [[Squirt]].
+	- Something is off about [[Wyll of the Faewild]].
+	- [[Squirt]] can guide us to [[Yon]] with some [[Boggle Oil]]
+- We go to [[Thither - Loom Lurch]] to investigate executing the plan.
+	- We find [[Sowpig]] working in the shop.
+	- We fight a rocking horse, after placing the [[Unicorn Horn]] in its hole it turns into [[Ilidan]].
+- We make an introduction with [[Scabatha Nightshade]], she brings us to [[Wilomena]] who is pregnant with carnivorous creatures.
+	- After distracting [[Scabatha Nightshade]], we run with [[Wilomena]].
+	- [[Vengar Oathbreaker]] grabs [[Wilomena]] and hands off to [[Mac Torag]].
+	- [[Bjorn "Hags Bane" Bjornsson]] is knocked out.
+	- [[Vengar Oathbreaker]] is chased down by [[Scabatha Nightshade]] and 3 [[Redcap]]'s.
+	- [[Derek Zoolander]] investigates chambers.
+		- Finds [[Characters/Endelyn Moongrave]] has an [[Orrery of Tragedies]] ?
+		- [[Hourglass Coven]] is afraid of the [[Jabberwack]] 
+		- They used [[Tasha's Cauldron]] to freeze [[Zibilna]]
+		- Learned [[Zibilna]] was able to befriend the [[Jabberwack]]
+	- [[Derek Zoolander]] helps move [[Bjorn "Hags Bane" Bjornsson]] to safety.
+	- We use [[Sending Stones]] to call [[Clapper Claw]] and [[Morgort]] to pick us up.
+- [[Wyll of the Faewild]] helps kids escape.
+	- We meet up with [[Wyll of the Faewild]] and kids.
+		- A dwarf named [[Elkhorn]] is among them.
+	- [[Elkhorn]] knocks out [[Vengar Oathbreaker]].
+		- Something about [[Mercion]]'s symbol?
+		- We was a cleric of [[Valor's Call]].
+		- They were assaulting [[Prismeer - Palace of Hearts Desire]] when they were knocked out.
+		- Other members included [[Strongheart]] and [[Ringlerun]]. 
+- Something [[The Accords Alliance]] ?
+	- We learn [[Wyll of the Faewild]] is actually [[Morgon the Onni]]
+- We warp to [[Thither - Unicorn Lake]], reunite [[Ilidan]] and [[Lamorna]].
+	- Debrief with [[Wilomena]], want to kill [[Scabatha Nightshade]] to break curse.
+	- Convince [[Ilidan]] to fight with us.
+- Go back too [[Thither - Loom Lurch]] to murk [[Scabatha Nightshade]].
+	- We dispatch [[Tin Soliders]], kill [[Redcap]]s .
+	- [[Derek Zoolander]] sneaks off into [[Thither - Loom Lurch]] to trick [[Scabatha Nightshade]] into getting hastened and then exhausted. Fails.
+	- [[Derek Zoolander]] is dropped by [[Cradlefall]] and almost dies.
+	- We assault the house, [[Scabatha Nightshade]] has [[Morgort]] in her clutches, kills [[Morgort]].
+	- End up fighting [[Tin Soliders]] , [[Scabatha Nightshade]] in giant ape form, and a small green dragon [[Cradlefall]] .
+	- [[Bjorn "Hags Bane" Bjornsson]] moonbeams the ape and vaporizes [[Scabatha Nightshade]].
+- Head back to [[Thither - Little Oak]], on the way there encounter [[Blink Dogs]] grieving the loss of one of their own.
+	- Mention the [[Jabberwack]] killed them. *hunts, hides, preys*
+- We loot [[Thither - Loom Lurch]]:
+	- [[Quill of Unlimited Blood Ink]] 
+	- [[Varnished Hag's Eye]]
+	- [[Eight Minute Hourglass]] 
+	- Find portraits of [[Scabatha Nightshade]], [[Tasha]], [[Characters/Endelyn Moongrave]] and [[Baba Yaga]].
+		- Touching portraits shows parentage.
+	- Find [[Boggle Oil]] for [[Squirt]].
+	- Find an 11 volume set of the monarchy of the [[Soggy Court]].
+		- 3 books are missing.
+		- There is abjuration magic on the books.
+	- Find a mirror with conjuration magic.
+	- Find some loot (Cracked mirror[50g], gold slippers[15g], gold eyes for[25g] )
+	- Find a [[Book of Uncommon Potions]]
+	- Find tools to make [[Artisans Tools]]
+- We go back to [[Thither - Unicorn Lake]] to check on [[Wilomena]], still cursed.
+	- Decide that we need to find [[Zibilna]] to help break the curse.
+	- Convince [[Ilidan]] to warp us to [[Clapper Claw]], to make sure he is ok.
+	- Have [[Squirt]] send us to Yon.
+- We take a quick detour to [[Toril - Waterdeep]] to buy some gear and ask some questions.
+	- Use Faerie Circle and chant: ""By Oak and by Ash I'll be back in a Flash"
+		- To return: "By Oak and by Thorn My Wildes may Bounre"."
+	- [[Vengar Oathbreaker]] gets [[Splint mail +1 ]] and a [[Warhammer]]
+	- Learn that [[Varnished Hag's Eye]] allows [[Hourglass Coven]] to spy.
+		- 

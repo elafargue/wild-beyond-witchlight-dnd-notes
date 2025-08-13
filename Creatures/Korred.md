@@ -1,0 +1,2 @@
+- Robust creatrues with deadly hair.
+- Can shape rock with their hands.

@@ -1,0 +1,2 @@
+- Not much known, leading of [[Seelie Court]] .
+- Sent [[Ser Talivar]] to investigate what is happening to [[Prismeer]]

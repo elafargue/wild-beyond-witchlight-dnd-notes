@@ -1,0 +1,4 @@
+- A "kid" who is wanted by [[Scabatha Nightshade]].
+- He leads the [[Getaway Gang]].
+- Turned backed into Oni after defeating [[Endelyn Moongrave]].
+- Killed.

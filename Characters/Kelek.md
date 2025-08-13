@@ -1,0 +1,3 @@
+- Hired an Orc named [[Zirack]] to get a [[Unicorn Horn]] so that he can unfreeze ... at the [[Prismeer - Palace of Hearts Desire]].
+- He meant to bring to a man named [[Shady Jim]] in [[Toril - Neverwinter]] . 
+- Not much is known.

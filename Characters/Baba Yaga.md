@@ -1,0 +1,2 @@
+- Mother to [[Hourglass Coven]], adoptive mother to [[Tasha]].
+- "Big bad"

@@ -1,0 +1,2 @@
+- Member (leader) of [[Valor's Call]].
+- Last seen assaulting [[Prismeer - Palace of Hearts Desire]]

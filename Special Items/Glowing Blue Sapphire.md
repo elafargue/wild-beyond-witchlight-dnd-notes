@@ -1,0 +1,1 @@
+- Stone of Luck, now just a sapphire. In possession of [[Derek Zoolander]]

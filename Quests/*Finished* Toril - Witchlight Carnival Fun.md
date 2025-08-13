@@ -1,0 +1,3 @@
+- Get something stolen from us from a ghoul named [[Sowpig]] .
+- Carnival ran by [[Mr. Witch]] and [[Mr. Light]] .
+- Meet a centaur named [[Diana]] who was cursed to be merged with here horse.

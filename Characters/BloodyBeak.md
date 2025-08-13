@@ -1,0 +1,5 @@
+- Mentioned by hags.
+- Known to be able to defeat Jabberwock.
+- Giant Owl.
+- Northeast palace in Aviary.
+- 

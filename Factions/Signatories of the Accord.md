@@ -1,0 +1,4 @@
+- [[Derek Zoolander]] has a scroll with a symbol of [[Signatories of the Accord]] on it. 
+- They are mortal enemies of [[Valor's Call]]
+- "evil".
+- [[Skylla]]. 

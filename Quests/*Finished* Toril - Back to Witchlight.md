@@ -1,0 +1,20 @@
+- Came back to carnival.
+- Transported back to Shadowfell.
+- I need to to capture [[Book of Names.]] in [[Toril - Neverwinter]]
+	- [[Vengar Oathbreaker]] needs to get it.
+- [[Mac Torag]] has a [[Eldritch Claw Tattoo]]
+- [[Isolde]] comes from other carnival.
+- Witchlight had arrangement with previous owner.
+- [[Vengar Oathbreaker]] pick up Isolde's sword.
+	- "were going to wonders together".
+- Raven that [[Mac Torag]] punched came back.
+- [[Nepenthe]] the sword, flaming red sword.
+- Mr. Witch
+- Searching [[Isolde]]'s carriage.
+	- Find shrine to helm.
+	- A [[Isolde's Ledger]] interspersed *I will Kill them*, *I will kill them all.*
+- Go within neverwinter.
+	- Conjured Owl.
+- Paladin's of Helm make use of the Undead.
+- Go to [[Neverwinter]] and [[Neverwinter - Lonely Barrel]] to find information.
+	-  [[Sa]]: tabaxi.

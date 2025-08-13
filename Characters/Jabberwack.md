@@ -1,0 +1,3 @@
+- Large dragon like creature.
+- Friend of [[Zibilna]]
+- Roaming the wilds hunting

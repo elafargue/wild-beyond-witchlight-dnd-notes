@@ -1,0 +1,3 @@
+- Maybe a paladin of Helm.
+- Had a sword [[Nepenthe]]
+- 

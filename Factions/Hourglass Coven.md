@@ -1,0 +1,5 @@
+- Group of three sisters:
+	- [[Bavlorna Brightstraw]]
+	- [[Scabatha Nightshade]]
+	- [[Characters/Endelyn Moongrave]]
+- Overthrew monarch of [[Prismeer]] , [[Zibilna]].

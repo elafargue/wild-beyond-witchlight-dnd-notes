@@ -1,0 +1,3 @@
+- Monarchy of Frogs in [[Hither - Downfall]].
+- Constantly killing monarch and vies for power.
+- Overthrown by PCs, last monarch was [[Derek Zoolander]] ?

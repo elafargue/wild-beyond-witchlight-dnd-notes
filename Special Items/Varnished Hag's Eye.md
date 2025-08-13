@@ -1,0 +1,2 @@
+- Allows hags to spy
+- If destroyed will temporarily incapacitate the hag's.

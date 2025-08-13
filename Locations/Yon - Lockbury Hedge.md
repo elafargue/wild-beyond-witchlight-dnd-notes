@@ -1,0 +1,2 @@
+- Home place of [[Korred]]'s.
+- Surrounded by stones.

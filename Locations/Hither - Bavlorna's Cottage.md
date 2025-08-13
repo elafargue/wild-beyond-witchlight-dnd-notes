@@ -1,0 +1,2 @@
+- [[Bavlorna Brightstraw]] 's home.
+- Several [[Redcaps]] patrol the area.

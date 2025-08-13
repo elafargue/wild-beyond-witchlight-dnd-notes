@@ -1,0 +1,2 @@
+- A sorcerer, looking to become part of the  [[Signatories of the Accord]] who is trying to garn favor with Baba Yaga, and is doing tasks with daughters.
+- Was part of . [[Kelek]]'s band.

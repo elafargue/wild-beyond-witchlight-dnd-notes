@@ -1,0 +1,4 @@
+- Friendly goblin with a key flail.
+- Key find their way back to her.
+- Gave [[Derek]] 
+- Loves truffles.

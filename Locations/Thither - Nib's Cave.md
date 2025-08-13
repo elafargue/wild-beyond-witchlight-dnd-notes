@@ -1,0 +1,1 @@
+- [[Nib]] weaves golden items as part of his curse.

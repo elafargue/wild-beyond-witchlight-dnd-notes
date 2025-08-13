@@ -1,0 +1,2 @@
+- Tyr, Olm, Helm
+- Brutal Zealots worship in [[Elterel]]

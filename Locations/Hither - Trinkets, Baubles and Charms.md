@@ -1,0 +1,2 @@
+- Small shop in [[Hither - Downfall]], which has a giant balloon powered by "storms" ? attached.
+- 

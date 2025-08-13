@@ -1,0 +1,7 @@
+- "good faction"
+- Members include:
+	- [[Elkhorn]]
+	- [[Mercion]]
+	- [[Strongheart]]
+	- [[Ringlerun]]
+- They assaulted [[Prismeer - Palace of Hearts Desire]] chasing [[Tasha]] ? 

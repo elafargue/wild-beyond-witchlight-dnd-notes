@@ -1,0 +1,2 @@
+- A flask originally carried by [[Agdon Longscarf]] which a person can be compelled to put their memories into.
+- Currently in the possession of [[Mac Torag]].

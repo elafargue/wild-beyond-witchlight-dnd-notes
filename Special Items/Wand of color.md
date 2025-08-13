@@ -1,0 +1,1 @@
+While holding the wand, you can cause the end to leave behind an arcane pigment of your choice, allowing you to draw in midair or on any surface the end of the wand touches. The effect is illusory, visibly magic, radiates dim light out to 5 feet, and dissipates after one hour of completing a drawing. 

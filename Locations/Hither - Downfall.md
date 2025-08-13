@@ -1,0 +1,2 @@
+- First location teleported to via mirror at [[Toril - Witchlight Carnival]] by [[Mr. Light]]
+- 

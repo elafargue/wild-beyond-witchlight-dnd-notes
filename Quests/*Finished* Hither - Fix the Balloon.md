@@ -1,0 +1,44 @@
+
+- Came across some [[Herrigons]] trying to take our memories. They are a bandits under the guidance of an outlaw, [[Agdon Longscarf]], who was recently freed from having his scarf nailed to a tree.
+	- Defeated [[Herrigons]] ,but found that they were not trying to kill us.
+	- Retrieve a [[Gourd of Memories]] that they were trying to take.
+- We came across a fallen balloon at a aging castle/crenulation. Guarded by some [[Giant Snakes]].
+- In the balloon was a dead [[Bolliwog]] , named [[Wiggle Wog]], the "Baron of Balloons".
+- We also met [[Ser Talivar]], a Knight of the [[Seelie Court]], who service [[Queen Titania]]
+	- He, Wiggle Wog and [[Morgort]] blew up a balloon factory to rage against hags [[Bavlorna Brightstraw]]
+	- Mentioned we should go find a friendly scarecrow, [[Clapper Claw]]
+- We brought him in this [[Cage of Magic Dispelment]] to [[Hither - Telemey Hill]]
+- We find the [[Hither - Inn at the End of the Road]] where there are [[Herrigons]] and a large [[Inn Cyclops]].
+- From the barkeep learned about the 3 rules of Prismeer:
+	- Treat Guest as Guests [[Law of Hospitality]]
+	- Obliged to accept [[Law of Reciprocity]]
+	- Must not steal [[Law of Ownership]]
+	- These were created by [[Zibilna]]
+- On our way to [[Hither - Downfall]] we encountered [[Agdon Longscarf]] who knocked us all out.
+	- They stole back the [[Gourd of Memories]]
+- We awoke in cages somewhere above a pond, which appeared to be [[Hither - Bavlorna's Cottage]].
+	- We meet a Satyr named [[Vancel]] , who helps us escape.
+	- We learn that their is another sister, [[Tasha]] who is adopted. Their mother is [[Baba Yaga]], the witch of the woods
+	- We meet [[Bavlorna Brightstraw]], who gives us information about the [[Hourglass Coven]] and what is going on.
+	- [[Vengar Oathbreaker]] gets almost killed by a [[Redcap]] , while grabbing a knife to defend oneself.
+	- [TODO] -> Have no idea how we got out of this situation
+	- The [[Hourglass Coven]] hates [[Tasha]].
+- We reach [[Hither - Downfall]], where we meet [[King Galoop the 19th]], the current monarch of the [[Soggy Court]].
+	- They are about to execute a prisoner who helped burn down the balloon factory.
+	- [[Vengar Oathbreaker]] decided to help enact justice as a [[Paladin of Helm]] , wherein he learned the prisoner, [[Morgort]] helped burn down the balloon factory.
+	- We save [[Morgort]] who is able to fly a balloon.
+	- A coup is enacted, several frogs die, democracy is enacted.
+	- We find [[Lorna's Diary]] which contains notes about how she hates her sister [[Tasha]], who is the favorite of [[Baba Yaga]]. 
+- We go into [[Hither - Trinkets, Baubles and Charms]] where we trade an [[Jingle Jangle's Iron Key]] for a [[Unicorn Horn]] .
+- After we have [[Morgort]] start repairing the balloon so we can go to [[Thither]].
+- We need a navigator, [[Clapper Claw]]. We will only help if we get his Skull back.
+- On our way to the [[Hither - Brigands Tollway]], [[Bavlorna Brightstraw]] raises here [[Bavlorna's Lilypad]] with [[Vengar Oathbreaker]] and [[Derek Zoolander]] on it, threatening to kill us if we don't return [[Lorna's Diary]].
+	- Almost made a deal to steal paintings from [[Scabatha Nightshade]], but we Tomb Raider out of it.
+- We go back to [[Hither - Brigands Tollway]] to square up and beat [[Agdon Longscarf]].
+	- We defeat [[Agdon Longscarf]], take his memories with the [[Gourd of Memories]].
+	- We bring us with him as prisoner.
+	- Give back [[Clapper Claw]] his skull.
+- We head back to the [[Hither - Inn at the End of the Road]], where [[Derek Zoolander]] warps [[Inn Cyclops]] outside, receiving [[Shield of Perception]]
+	- Some note about "windershins".
+- We get the gang together and head out to [[Thither]] with [[Clapper Claw]], and [[Morgort]].
+ 

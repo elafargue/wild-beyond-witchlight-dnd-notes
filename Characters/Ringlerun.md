@@ -1,0 +1,2 @@
+- Wizard, Member of [[Valor's Call]]?
+- Has a cool staff?

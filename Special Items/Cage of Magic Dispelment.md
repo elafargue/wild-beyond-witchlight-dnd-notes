@@ -1,0 +1,3 @@
+- Cage that held [[Ser Talivar]].
+- Any magic items placed inside is dispelled.
+- Currently held by [[Mac Torag]]

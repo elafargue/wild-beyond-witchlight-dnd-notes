@@ -1,0 +1,1 @@
+- A banished Elf asked us to meet him and check on his realm.

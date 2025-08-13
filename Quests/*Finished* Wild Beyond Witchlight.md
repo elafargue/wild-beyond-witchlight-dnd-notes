@@ -1,0 +1,4 @@
+- Sent to find [[Zibilna]]
+- Came to the [[Locations/Toril - Witchlight Carnival]]
+- Sent to [[Hither]] through magic portal by [[Mr. Witch]] 
+- Came back, saved Zibilna, Saved them from [[Isolde]] and now they have a Fey Carnival that can go to the [[Locations/Shadowfell]]

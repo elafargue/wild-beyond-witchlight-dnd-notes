@@ -1,0 +1,2 @@
+- Perytons were twisted and depraved magical creatures that appeared to be a cross between a giant eagle and a demonic-looking, fang-toothed stag. They were known and feared for tearing the beating hearts from their victims' chests.
+- 

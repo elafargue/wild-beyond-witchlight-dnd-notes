@@ -1,0 +1,2 @@
+- Given to us by [[Jingle Jangle]], unclear what it opens.
+- Traded for a [[Unicorn Horn]] at [[Hither - Trinkets, Baubles and Charms]]. 

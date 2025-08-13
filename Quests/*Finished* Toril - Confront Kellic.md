@@ -1,0 +1,4 @@
+- Figure out why Kellic needs a [[Unicorn Horn]].
+	- Want's Valor's Call's [[Ringlerun]] 's Staff'
+- Last known location [[Prismeer - Palace of Hearts Desire]], presumably dead from [[Zibilna]]
+- 
