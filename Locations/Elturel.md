@@ -1,0 +1,2 @@
+- Region south of [[Baldur's Gate]]
+- Capital is [[Elturguard]]

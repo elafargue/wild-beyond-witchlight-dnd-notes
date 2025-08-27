@@ -1,2 +1,0 @@
-El Tor Guard?
-Elturel

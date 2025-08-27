@@ -21,7 +21,7 @@
 New Session.
 
 Met [[Joric]] who has a "friend", [[Jasper]] who were at [[Redoubt]]
-- Went south towards [[Locations/El Toril]]
+- Went south towards [[Elturel]]
 	- Attacked
 	- Wheres an emblem with an Oak Tree Badge, does not mean much, part of some ranger/ military force from misty forest.
 	- Find 73gp of coin/gems. 

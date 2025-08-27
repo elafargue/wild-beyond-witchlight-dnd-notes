@@ -26,3 +26,5 @@ On our way to Elterguard.
 		- Died decades ago.
 - Jasper is a Tabaxi in a wheelchair.
 [[Joric]].
+
+Reached [[locations/Elturguard]] 

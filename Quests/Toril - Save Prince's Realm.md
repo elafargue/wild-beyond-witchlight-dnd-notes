@@ -1,1 +1,4 @@
 - A banished Elf asked us to meet him and check on his realm.
+- Word on the street is [[Nerenvein]] is hated. Could be into a Dragon Cult.
+- Was exiled.
+- Unclear if current "ruler" [[Prince Tarsalles]] is a devil or not.

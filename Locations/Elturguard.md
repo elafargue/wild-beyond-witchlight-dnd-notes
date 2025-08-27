@@ -1,3 +1,3 @@
 - Arrived at Elturguard, some coupe, and executed.
 - Helm and Tyr zealots took over.
-- [[El Toril]] is the capital city. 
+- [[Elturel]] is the capital city. 

@@ -1,0 +1,1 @@
+- Fires 20 bolts before reloading.
