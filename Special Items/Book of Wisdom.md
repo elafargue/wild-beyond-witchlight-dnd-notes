@@ -1,0 +1,2 @@
+- Poetry book found in sandcrawler.
+- Gives +2 WIS

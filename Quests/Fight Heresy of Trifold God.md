@@ -1,0 +1,3 @@
+- Elturel is ran by zealot paladins. 
+- Dismantle the heresy.
+- Something about the  [[Peacebringer]]

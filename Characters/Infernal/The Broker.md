@@ -1,0 +1,2 @@
+- Prisoner in the [[Redoubt]] 
+- Devil who made deals with Mac and Bjorn.

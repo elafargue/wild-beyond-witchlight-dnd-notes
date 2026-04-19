@@ -1,0 +1,2 @@
+- Guy brought us to tavern to get sent to [[Zibilna]] with book.
+- Instead he sends us to [[*Finished* Avernus - Lost in Transportation]]

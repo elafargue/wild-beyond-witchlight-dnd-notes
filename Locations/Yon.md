@@ -2,7 +2,7 @@ Came from [[Thither]]
 
 Characters:
 
--[[Characters/Endelyn Moongrave]]
+-[[Endelyn Moongrave]]
 - Quorods?
 - Gleem (Moon Elf)
 	- Lost Shadow, taken by Evelyn

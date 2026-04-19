@@ -1,0 +1,5 @@
+- Shield
+	- While holding emits light.
+	- Use reaction on missed attack to bash.
+	- 1d4+1 acid damage.
+- Bjorn has it??

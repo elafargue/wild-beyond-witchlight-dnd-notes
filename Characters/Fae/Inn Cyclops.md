@@ -4,6 +4,5 @@
 - Encountered again in [[Yon]] while party was on its way to [[Yon - Lockbury Hedge]]
 - Carries a beehive on his staff.
 	- Its Queen, [[Pollenela]] went missing, "stolen" by [[Amador]].
--
 
 Last known location, wandering [[Yon]] with a beehive.

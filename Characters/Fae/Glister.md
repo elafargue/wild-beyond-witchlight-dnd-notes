@@ -1,5 +1,5 @@
 [[Gleen]]'s sister? Is a twin or something related to moon.
-- Currently works for [[Characters/Endelyn Moongrave]]
+- Currently works for [[Endelyn Moongrave]]
 - Sun face? 
 - Found in dungeon without shadow.
 - Shadow reattached and re-united with [[Gleen]].

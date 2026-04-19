@@ -2,7 +2,7 @@
 - We met two creatures, a talking dandelion named [[Amador]] and a moon elf named [[Gleen]], they have tasked us to gain allies to:
 	- Recover [[Gleen]]'s shadow 
 	- Save [[Glister]] 
-	- Overthrow [[Characters/Endelyn Moongrave]].
+	- Overthrow [[Endelyn Moongrave]].
 - [[Amador]] recommend us to go to [[Yon - Lockbury Hedge]] to meet with some Korreds to gather allies.
 	- "Stout"
 - On our way their we met with [[Inn Cyclops]] who wants [[Pollenela]] back.
@@ -14,7 +14,7 @@
 	- Male wood elf ,tattered clothing (once expensive) [[Nerenvein]]
 	- Lights flames, portal to home ([[Toril - Misty Forest]]).
 	- After killing, the [[Peryton]]'s turned into elves.
-	- [[Characters/Endelyn Moongrave]] was unhappy with elves performances and turned them in
+	- [[Endelyn Moongrave]] was unhappy with elves performances and turned them in
 - Large structure shape of the [[Moon Tower]] built ontop of the mountain.
 	- 6 or seven of them and a sun.
 	- Hag uses them, power her play house.
@@ -24,8 +24,8 @@
 	- [[Korred]] , [[Queen Argentil]] and gives me glowing stone.
 		- Lasts for a year and a day minus a day.
 		- [[Glowing Blue Sapphire]] - Lucky?
-	- End the bitter end. [[Characters/Endelyn Moongrave]] stole her hair.
-	- [[Characters/Endelyn Moongrave]] can see the future via the [[Orrery of Tragedies]]. 
+	- End the bitter end. [[Endelyn Moongrave]] stole her hair.
+	- [[Endelyn Moongrave]] can see the future via the [[Orrery of Tragedies]]. 
 	- "death to [[Brigganock]]". Little annoying creatures. 
 	- The [[Brigganock]] are building machinery.
 	- [[Korred]]'s dance.
@@ -35,7 +35,7 @@
 	- [[Mullivar]] ? Ambassador of briganocks. 
 		- Mining "used wishes."
 		- Had issues with 
-	- [[Creeping Lynn]], [[Characters/Endelyn Moongrave]].
+	- [[Creeping Lynn]], [[Endelyn Moongrave]].
 	- We go into depths to fight floating flame skulls.
 - Defeated 3 skulls and dumped holy water on them to dissolve.
 - Met [[Obed the Brigganock]] whose house is ontop of a horse.
@@ -54,8 +54,8 @@
 - Wooden marionette, [[Break-a-leg]]. 
 - Stagehands play.
 - [[Briganock]] is chained to a lantern. Name?
-- [[Characters/Endelyn Moongrave]] is terrified of eclipses.
-- [[Characters/Endelyn Moongrave]] wrote a note about her sister Scabatha on an invisible in the [[Yon - Oraculer Library]] .
+- [[Endelyn Moongrave]] is terrified of eclipses.
+- [[Endelyn Moongrave]] wrote a note about her sister Scabatha on an invisible in the [[Yon - Oraculer Library]] .
 - L Trap door on one branch, and steps leading up on other branch.
 - [[Stagefright]], goblin stage manager for plays.
 - [[Skylla]] tall sorcerer. 
@@ -154,7 +154,7 @@ Shadow1 -> Dead?
 	- Chapter 3:
 		-
 - Turned [[Skylla]] to our save
-- Defeated [[Characters/Endelyn Moongrave|Endelyn Moongrave]].
+- Defeated [[Endelyn Moongrave|Endelyn Moongrave]].
 - [[Glister]] has her shadow back.
 - Helped [[Gleen]]
 - [[Skylla]] now runs [[Yon - Motherhorn]] and [[Orrery of Tragedies]]

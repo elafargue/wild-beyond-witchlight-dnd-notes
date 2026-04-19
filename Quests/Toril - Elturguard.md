@@ -36,3 +36,23 @@ Long Rest
 
 
 We've decided to break [[Jasper]] out of the [[Hall of the Everwatch]] 
+
+[[Joric]] finds a [[Squasher]] , [[Festerwood Buckler]]
+- [[ Scroll of Knock]] 
+- 2 invisibility potions, suspect.
+- Unconscious Lady ([[Emilie]]) 
+- +1d10 to fiends and undead.
+
+
+[[Torvin Hollobrand]] - The Law Mage 
+
+- [[Brockin the Dwarf]]
+	- An Alchemist
+	- Emilie
+- Emmet.
+- Klarst.
+	- Kobold
+
+Giant Dragon Statue.
+- Children hiding under it.
+- Gold Dragonborn mounted on gold steeds.

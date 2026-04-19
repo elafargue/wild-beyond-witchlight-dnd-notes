@@ -1,0 +1,2 @@
+- A giant pit fied.
+- Can fireball twice.

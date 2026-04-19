@@ -44,7 +44,7 @@
 	- [[Bjorn "Hags Bane" Bjornsson]] is knocked out.
 	- [[Vengar Oathbreaker]] is chased down by [[Scabatha Nightshade]] and 3 [[Redcap]]'s.
 	- [[Derek Zoolander]] investigates chambers.
-		- Finds [[Characters/Endelyn Moongrave]] has an [[Orrery of Tragedies]] ?
+		- Finds [[Endelyn Moongrave]] has an [[Orrery of Tragedies]] ?
 		- [[Hourglass Coven]] is afraid of the [[Jabberwack]] 
 		- They used [[Tasha's Cauldron]] to freeze [[Zibilna]]
 		- Learned [[Zibilna]] was able to befriend the [[Jabberwack]]
@@ -58,7 +58,7 @@
 		- We was a cleric of [[Valor's Call]].
 		- They were assaulting [[Prismeer - Palace of Hearts Desire]] when they were knocked out.
 		- Other members included [[Strongheart]] and [[Ringlerun]]. 
-- Something [[The Accords Alliance]] ?
+- Something [[The Accords Alliance]]?
 	- We learn [[Wyll of the Faewild]] is actually [[Morgon the Onni]]
 - We warp to [[Thither - Unicorn Lake]], reunite [[Ilidan]] and [[Lamorna]].
 	- Debrief with [[Wilomena]], want to kill [[Scabatha Nightshade]] to break curse.
@@ -76,7 +76,7 @@
 	- [[Quill of Unlimited Blood Ink]] 
 	- [[Varnished Hag's Eye]]
 	- [[Eight Minute Hourglass]] 
-	- Find portraits of [[Scabatha Nightshade]], [[Tasha]], [[Characters/Endelyn Moongrave]] and [[Baba Yaga]].
+	- Find portraits of [[Scabatha Nightshade]], [[Tasha]], [[Endelyn Moongrave]] and [[Baba Yaga]].
 		- Touching portraits shows parentage.
 	- Find [[Boggle Oil]] for [[Squirt]].
 	- Find an 11 volume set of the monarchy of the [[Soggy Court]].
@@ -95,4 +95,3 @@
 		- To return: "By Oak and by Thorn My Wildes may Bounre"."
 	- [[Vengar Oathbreaker]] gets [[Splint mail +1 ]] and a [[Warhammer]]
 	- Learn that [[Varnished Hag's Eye]] allows [[Hourglass Coven]] to spy.
-		- 

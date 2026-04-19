@@ -1,2 +1,2 @@
-- [[Characters/Endelyn Moongrave]]'s tower in [[Yon]]
+- [[Endelyn Moongrave]]'s tower in [[Yon]]
 - 

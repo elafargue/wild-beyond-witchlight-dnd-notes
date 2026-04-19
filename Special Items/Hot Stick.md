@@ -1,0 +1,2 @@
+- Given to by Imp before [[Celestial Crow]] kills imp.
+- 
