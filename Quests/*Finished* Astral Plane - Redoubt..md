@@ -1,6 +1,6 @@
 
 - Grabbed the automaton's crystal to get past laser.
-- [[Vengar Oathbreaker]] , [[Bjorn "Hags Bane" Bjornsson]] ,[[Joric]] and [[Jasper]] went in with crystals.
+- [[Vengar Oathbreaker]] , [[Bjørn "Hags Bane" Bjornson]] ,[[Joric]] and [[Jasper]] went in with crystals.
 - Opened top entrance, attacked by 2 Iron Golems.
 	- Electricity seemed to heal them
 

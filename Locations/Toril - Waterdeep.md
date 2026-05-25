@@ -1,2 +1,2 @@
 - Magic is restricted.
-- Was able to warp there via a mushroom circle in [[Thither]] by saying a ryhme.
+- Was able to warp there via a mushroom circle in [[Thither]] by saying a rhyme.

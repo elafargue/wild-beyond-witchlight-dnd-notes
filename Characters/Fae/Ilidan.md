@@ -7,5 +7,5 @@
 Last Known Location: [[Thither - Unicorn Lake]]
 
 - Killed in battle with Oni, [[Wyll of the Faewild]].
-- His horn was given with [[Bjorn "Hags Bane" Bjornsson]]
+- His horn was given with [[Bjørn "Hags Bane" Bjornson]]
 - 

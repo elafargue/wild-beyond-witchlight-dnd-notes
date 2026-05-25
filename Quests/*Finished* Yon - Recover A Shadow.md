@@ -53,7 +53,7 @@
 - 8 Foot disk of a moon.
 - Wooden marionette, [[Break-a-leg]]. 
 - Stagehands play.
-- [[Briganock]] is chained to a lantern. Name?
+- [[Briganox]] is chained to a lantern. Name?
 - [[Endelyn Moongrave]] is terrified of eclipses.
 - [[Endelyn Moongrave]] wrote a note about her sister Scabatha on an invisible in the [[Yon - Oraculer Library]] .
 - L Trap door on one branch, and steps leading up on other branch.
@@ -73,7 +73,7 @@ Vengar, Bjorn, Big Mac, Derek.
 
 Meeting 
 
-[[Bjorn "Hags Bane" Bjornsson]]'s wife is cursed with a transmutation curse. They are turning into "changelings". 
+[[Bjørn "Hags Bane" Bjornson]]'s wife is cursed with a transmutation curse. They are turning into "changelings". 
 
 
 Scroll of Derek:
