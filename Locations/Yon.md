@@ -12,3 +12,5 @@ Characters:
 - Paulanela
 	- A large bee.
 - [[Derek Zoolander]] opened [[lock]] . 
+
+![[Map of Yon.png]]

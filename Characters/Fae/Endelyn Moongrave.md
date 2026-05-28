@@ -3,4 +3,4 @@
 - Creepy Puppet master.
 - "Bitter End"
 
--- Last KNown location, dusted by [[Bjorn "Hags Bane" Bjornsson]]
+-- Last KNown location, dusted by [[Bjørn "Hags Bane" Bjornson]]

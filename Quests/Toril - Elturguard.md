@@ -18,7 +18,7 @@ Long Rest
 - 2 Wood Elves
 	- [[Elena]]
 	- [[Sherrick]]
-		- Speak Druidic with [[Bjorn "Hags Bane" Bjornsson]]
+		- Speak Druidic with [[Bjørn "Hags Bane" Bjornson]]
 	- Group of heretics attacked their home.
 - [[Thomas Quarren]] [[Broken Chalice Inn 1]]
 - Inn Near harbor.

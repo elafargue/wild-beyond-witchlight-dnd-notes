@@ -2,4 +2,4 @@
 -
 
 
-Last Known Location: In [[Bjorn "Hags Bane" Bjornsson]]'s bag.
+Last Known Location: In [[Bjørn "Hags Bane" Bjornson]]'s bag.

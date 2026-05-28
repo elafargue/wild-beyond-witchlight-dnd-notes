@@ -7,7 +7,7 @@
 	- He gives:
 		- [[Vengar Oathbreaker]] [[Dimensional Shackles]]
 		- [[Derek Zoolander]] [[Gloves of Thievery]]
-		- [[Bjorn "Hags Bane" Bjornsson]] an [[Immovable Rod]]
+		- [[Bjørn "Hags Bane" Bjornson]] an [[Immovable Rod]]
 		- [[Mac Torag]] [[Winged Boots]]
 		- [[Morgort]] / [[Clapper Claw]] [[Sending Stones]] 
 - He gives us directions to [[Thither - Little Oak]] to find the [[Getaway Gang]].
@@ -41,14 +41,14 @@
 - We make an introduction with [[Scabatha Nightshade]], she brings us to [[Wilomena]] who is pregnant with carnivorous creatures.
 	- After distracting [[Scabatha Nightshade]], we run with [[Wilomena]].
 	- [[Vengar Oathbreaker]] grabs [[Wilomena]] and hands off to [[Mac Torag]].
-	- [[Bjorn "Hags Bane" Bjornsson]] is knocked out.
+	- [[Bjørn "Hags Bane" Bjornson]] is knocked out.
 	- [[Vengar Oathbreaker]] is chased down by [[Scabatha Nightshade]] and 3 [[Redcap]]'s.
 	- [[Derek Zoolander]] investigates chambers.
 		- Finds [[Endelyn Moongrave]] has an [[Orrery of Tragedies]] ?
 		- [[Hourglass Coven]] is afraid of the [[Jabberwack]] 
 		- They used [[Tasha's Cauldron]] to freeze [[Zibilna]]
 		- Learned [[Zibilna]] was able to befriend the [[Jabberwack]]
-	- [[Derek Zoolander]] helps move [[Bjorn "Hags Bane" Bjornsson]] to safety.
+	- [[Derek Zoolander]] helps move [[Bjørn "Hags Bane" Bjornson]] to safety.
 	- We use [[Sending Stones]] to call [[Clapper Claw]] and [[Morgort]] to pick us up.
 - [[Wyll of the Faewild]] helps kids escape.
 	- We meet up with [[Wyll of the Faewild]] and kids.
@@ -69,7 +69,7 @@
 	- [[Derek Zoolander]] is dropped by [[Cradlefall]] and almost dies.
 	- We assault the house, [[Scabatha Nightshade]] has [[Morgort]] in her clutches, kills [[Morgort]].
 	- End up fighting [[Tin Soliders]] , [[Scabatha Nightshade]] in giant ape form, and a small green dragon [[Cradlefall]] .
-	- [[Bjorn "Hags Bane" Bjornsson]] moonbeams the ape and vaporizes [[Scabatha Nightshade]].
+	- [[Bjørn "Hags Bane" Bjornson]] moonbeams the ape and vaporizes [[Scabatha Nightshade]].
 - Head back to [[Thither - Little Oak]], on the way there encounter [[Blink Dogs]] grieving the loss of one of their own.
 	- Mention the [[Jabberwack]] killed them. *hunts, hides, preys*
 - We loot [[Thither - Loom Lurch]]:
