@@ -1,4 +1,0 @@
-- First person we saw after being warped to Avernus.
-- "Fake" Madrick perhaps?
-- Currently in possession of [[Book of Names]]
-- 

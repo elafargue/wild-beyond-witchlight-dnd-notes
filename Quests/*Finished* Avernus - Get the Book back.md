@@ -34,7 +34,7 @@
 	- Styxian water
 - Talked a bit
 - [[Demonic Ichor]] antidote
-	- [[Titivius]] -> 
+	- [[Titivilus]] -> 
 	- [[Mount Celestial]]?
 	- 4 Greater Healing Potions (100g/e).
 
